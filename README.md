@@ -1,6 +1,11 @@
 <h1 align="center">Turtlebot Gazebo</h1>
 <h6 align="center"> Projeto desenvolvido na disciplina de Robótica Móvel</h6>
 
+Este trabalho foi desenvolvido com o objetivo de implementar o controle e detecção de colisão de um robô diferencial.
+
+<h4>Pré-requisitos do sistema:</h4>
+
+
 <h4>Instruções de execução do Projeto:</h4>
 
 
