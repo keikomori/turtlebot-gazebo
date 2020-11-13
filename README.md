@@ -10,7 +10,7 @@ Porque? Porque criar um software robô verdadeiramente robusto e de uso geral é
 
 [fonte: www.ros.org](https://www.ros.org/about-ros/)
 
-<h4>TurtleBot3_gazebo?</h4>
+<h4>TurtleBot3</h4>
 TurtleBot3 é um pequeno robô móvel, acessível, programável e baseado em ROS para uso em educação, pesquisa, hobby e prototipagem de produtos. O objetivo do TurtleBot3 é reduzir drasticamente o tamanho da plataforma e baixar o preço sem ter que sacrificar sua funcionalidade e qualidade, ao mesmo tempo em que oferece expansão. O TurtleBot3 pode ser personalizado de várias maneiras, dependendo de como você reconstrói as peças mecânicas e usa peças opcionais, como o computador e o sensor. Além disso, o TurtleBot3 é desenvolvido com SBC econômico e de pequeno porte que é adequado para sistema embarcado robusto, sensor de distância de 360 graus e tecnologia de impressão 3D. 
 
 [fonte: turtlebot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview)
