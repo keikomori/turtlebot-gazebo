@@ -21,6 +21,18 @@ TurtleBot3 é um pequeno robô móvel, acessível, programável e baseado em ROS
 
 <h4>Instruções de execução do Projeto:</h4>
 
+1. Após realizar o download do repositório execute o seguinte comando para acessar o workspace do projeto: 
+
+```
+cd ~/turtlebot-gazebo
+```
+2. Em seguida, para rodar o simulador Gazebo e a aplicação para controlar o robô, execute o comando:
+
+```
+roslaunch desafio3 controletb3.py
+```
+3. E pronto! Para fazer com que o robô se movimente, insira as coordenadas quando solicitado.
+
 
 <h4 align="center">Tecnologias utilizadas</h4>
 
