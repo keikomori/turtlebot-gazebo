@@ -33,23 +33,23 @@ cd ~/turtlebot-gazebo
 ```
 gedit ~/.bashrc
 ```
-4. Um arquivo será aberto, e insira ao final a linha com o caminho para o arquivo setup.bash dentro da pasta devel:
+3. Um arquivo será aberto, e insira ao final a linha com o caminho para o arquivo setup.bash dentro da pasta devel:
 ```
 source /home/[seu usuário aqui]/turtlebot-gazebo/devel/setup.bash
 ```
-5. Após isso, execute: 
+4. Após isso, execute: 
 ```
 source ~/.bashrc
 ```
-6. Em seguida, execute: 
+5. Em seguida, execute: 
 ```
 cd ~/turtlebot-gazebo && catkin_make
 ```
-7. Em seguida, para rodar o simulador Gazebo e a aplicação para controlar o robô, execute o comando:
+6. Em seguida, para rodar o simulador Gazebo e a aplicação para controlar o robô, execute o comando:
 ```
 roslaunch desafio3 controletb3.launch
 ```
-8. E pronto! Para fazer com que o robô se movimente, insira as coordenadas quando solicitado.
+7. E pronto! Para fazer com que o robô se movimente, insira as coordenadas quando solicitado.
 
 
 <h4 align="center">Tecnologias utilizadas</h4>
