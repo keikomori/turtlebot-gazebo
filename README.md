@@ -15,7 +15,7 @@ TurtleBot3 é um pequeno robô móvel, acessível, programável e baseado em ROS
 
 [fonte: turtlebot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview)
 
-
+<br>
 <h4>:heavy_check_mark: Pré-requisitos do sistema</h4>
 
 - Instalação do ROS:
@@ -26,6 +26,7 @@ Caso seja necessária siga as instruções do [Tutorial ROS](http://wiki.ros.org
 
 Caso seja necessária siga as instruções do [Tutorial Turtlebot-Gazebo3](https://automaticaddison.com/how-to-launch-the-turtlebot3-simulation-with-ros/)
 
+<br>
 <h4>:memo: Instruções de execução do Projeto:</h4>
 
 1. Realize o clone deste projeto na pasta do onde foi instalado o turtlebot-gazebo3:
@@ -39,11 +40,12 @@ roslaunch desafio3 controletb3.launch
 ```
 3. E pronto! Para fazer com que o robô se movimente, insira as coordenadas quando solicitado.
 
-
+<br>
 <h4>:crystal_ball: Tecnologias utilizadas</h4>
 
-
-<h4>:octocat: Desenvolvido por:</h4>
+`ROS` + `Python` + `Linux` + `Turtlebot-gazebo3`
+<br>
+<h4>:bowtie: Desenvolvido por:</h4>
 
 [Anderson Rodrigues Pereira](https://github.com/ander5onPereira)
 
