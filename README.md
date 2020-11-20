@@ -29,8 +29,19 @@ TurtleBot3 é um pequeno robô móvel, acessível, programável e baseado em ROS
 ```
 cd ~/turtlebot-gazebo
 ```
-2. Em seguida, para rodar o simulador Gazebo e a aplicação para controlar o robô, execute o comando:
-
+2. Para configurar o repositório como um workspace, execute o comando:
+```
+gedit ~/.bashrc
+```
+4. Um arquivo será aberto, e insira ao final a linha:
+```
+source /home/[seu usuário aqui]/turtlebot-gazebo/devel/setup.bash
+```
+5. Após isso, execute: 
+```
+source ~/.bashrc
+```
+6. Em seguida, para rodar o simulador Gazebo e a aplicação para controlar o robô, execute o comando:
 ```
 roslaunch desafio3 controletb3.launch
 ```
