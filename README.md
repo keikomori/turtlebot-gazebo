@@ -16,43 +16,27 @@ TurtleBot3 é um pequeno robô móvel, acessível, programável e baseado em ROS
 [fonte: turtlebot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview)
 
 
-<h4>Pré-requisitos do sistema:</h4>
+<h1 >Pré-requisitos do sistema:</h4>
 
 - Instalação do ROS 
 
 - Instalação do Turtlebot3
 
-<h4>Instruções de execução do Projeto:</h4>
+<h1 align="center">Instruções de execução do Projeto:</h1>
 
-1. Após realizar o download do repositório execute o seguinte comando para acessar o workspace do projeto: 
+1. Realize o clone deste projeto na pasta do onde foi instalado o turtlebot-gazebo3:
 
 ```
-cd ~/turtlebot-gazebo
+cd ~/turtlebot-gazebo/src/ && git clone https://github.com/keikomori/turtlebot-gazebo && cd turtlebot-gazebo
 ```
-2. Para configurar o repositório como um workspace, execute o comando:
-```
-gedit ~/.bashrc
-```
-3. Um arquivo será aberto, e insira ao final a linha com o caminho para o arquivo setup.bash dentro da pasta devel:
-```
-source /home/[seu usuário aqui]/turtlebot-gazebo/devel/setup.bash
-```
-4. Após isso, execute: 
-```
-source ~/.bashrc
-```
-5. Em seguida, execute: 
-```
-cd ~/turtlebot-gazebo && catkin_make
-```
-6. Em seguida, para rodar o simulador Gazebo e a aplicação para controlar o robô, execute o comando:
+2. Em seguida, para rodar o simulador Gazebo e a aplicação para controlar o robô, execute o comando:
 ```
 roslaunch desafio3 controletb3.launch
 ```
-7. E pronto! Para fazer com que o robô se movimente, insira as coordenadas quando solicitado.
+3. E pronto! Para fazer com que o robô se movimente, insira as coordenadas quando solicitado.
 
 
-<h4 align="center">Tecnologias utilizadas</h4>
+<h1 align="center">Tecnologias utilizadas</h1>
 
 
 <h4>Desenvolvido por:</h4>
