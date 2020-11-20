@@ -45,7 +45,7 @@ source ~/.bashrc
 ```
 cd ~/turtlebot-gazebo && catkin_make
 ```
-6. Em seguida, para rodar o simulador Gazebo e a aplicação para controlar o robô, execute o comando:
+7. Em seguida, para rodar o simulador Gazebo e a aplicação para controlar o robô, execute o comando:
 ```
 roslaunch desafio3 controletb3.launch
 ```
