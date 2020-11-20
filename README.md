@@ -31,7 +31,7 @@ Caso seja necessária siga as instruções do [Tutorial Turtlebot-Gazebo3](https
 1. Realize o clone deste projeto na pasta do onde foi instalado o turtlebot-gazebo3:
 
 ```
-cd ~/turtlebot-gazebo/src/ && git clone https://github.com/keikomori/turtlebot-gazebo && cd turtlebot-gazebo
+cd ~/[nome do workspace]/src/ && git clone https://github.com/keikomori/turtlebot-gazebo && cd turtlebot-gazebo
 ```
 2. Em seguida, para rodar o simulador Gazebo e a aplicação para controlar o robô, execute o comando:
 ```
