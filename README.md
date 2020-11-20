@@ -33,7 +33,7 @@ cd ~/turtlebot-gazebo
 ```
 gedit ~/.bashrc
 ```
-4. Um arquivo será aberto, e insira ao final a linha:
+4. Um arquivo será aberto, e insira ao final a linha com o caminho para o arquivo setup.bash dentro da pasta devel:
 ```
 source /home/[seu usuário aqui]/turtlebot-gazebo/devel/setup.bash
 ```
