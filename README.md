@@ -32,7 +32,7 @@ cd turtlebot-gazebo
 2. Em seguida, para rodar o simulador Gazebo e a aplicação para controlar o robô, execute o comando:
 
 ```
-roslaunch desafio3 controletb3.py
+roslaunch desafio3 controletb3.launch
 ```
 3. E pronto! Para fazer com que o robô se movimente, insira as coordenadas quando solicitado.
 
