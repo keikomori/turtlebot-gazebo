@@ -1,8 +1,0 @@
-prefix=/home/guilherme/turtlebot-gazebo/install
-
-Name: desafio3
-Description: Description of desafio3
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
