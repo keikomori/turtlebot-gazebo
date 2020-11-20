@@ -16,7 +16,7 @@ TurtleBot3 é um pequeno robô móvel, acessível, programável e baseado em ROS
 [fonte: turtlebot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview)
 
 
-<h1 >Pré-requisitos do sistema:</h4>
+<h1 align="center">Pré-requisitos do sistema</h4>
 
 - Instalação do ROS:
 
