@@ -41,11 +41,15 @@ source /home/[seu usuário aqui]/turtlebot-gazebo/devel/setup.bash
 ```
 source ~/.bashrc
 ```
+6. Em seguida, execute: 
+```
+cd ~/turtlebot-gazebo && catkin_make
+```
 6. Em seguida, para rodar o simulador Gazebo e a aplicação para controlar o robô, execute o comando:
 ```
 roslaunch desafio3 controletb3.launch
 ```
-3. E pronto! Para fazer com que o robô se movimente, insira as coordenadas quando solicitado.
+8. E pronto! Para fazer com que o robô se movimente, insira as coordenadas quando solicitado.
 
 
 <h4 align="center">Tecnologias utilizadas</h4>
