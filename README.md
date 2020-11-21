@@ -19,11 +19,11 @@ fonte: [turtlebot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/over
 <br>
 <h4>:heavy_check_mark: Pré-requisitos do sistema</h4>
 
-- Instalação do ROS:
+- Instalação do **ROS**:
 
 Caso seja necessária siga as instruções do [Tutorial ROS](http://wiki.ros.org/ROS/Installation)
 
-- Instalação do Turtlebot3:
+- Instalação do **Turtlebot3**:
 
 Caso seja necessária siga as instruções do [Tutorial Turtlebot-Gazebo3](https://automaticaddison.com/how-to-launch-the-turtlebot3-simulation-with-ros/)
 
