@@ -45,6 +45,7 @@ roslaunch desafio3 controletb3.launch
 <h4>:crystal_ball: Tecnologias utilizadas</h4>
 
 `ROS` + `Python` + `Linux` + `Turtlebot-gazebo3`
+
 <br>
 <h4>:bowtie: Desenvolvido por:</h4>
 
