@@ -1,7 +1,7 @@
 <h1 align="center">:joystick: Turtlebot Gazebo</h1>
 <h6 align="center"> Projeto desenvolvido na disciplina de Robótica Móvel disciplina da UTFPR-PB</h6>
 
-Este trabalho foi desenvolvido com o objetivo de implementar o controle e detecção de colisão de um robô diferencial.
+Este trabalho foi desenvolvido com o objetivo de implementar o controle e detecção de colisão de um robô diferencial. Utilizando tecnologias como ROS e Turtlebot-gazebo3.
 
 <h4>ROS, o que é?</h4>
 O Robot Operating System (ROS) é uma estrutura flexível para escrever software robô. É uma coleção de ferramentas, bibliotecas e convenções que visam simplificar a tarefa de criar um comportamento robô complexo e robusto em uma ampla variedade de plataformas robóticas.
